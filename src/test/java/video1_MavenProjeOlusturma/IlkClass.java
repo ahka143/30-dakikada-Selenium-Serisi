@@ -14,7 +14,7 @@ public class IlkClass {
         driver.navigate().to("https://www.facebook.com");
         System.out.println(driver.getTitle());
 
-        System.out.println("deneme");
+
 
     }
 }
